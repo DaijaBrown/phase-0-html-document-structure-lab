@@ -1,5 +1,5 @@
 {
-  "name": "phase-0-html-document-structure-lab",
+!*"name":!"phase-0-html-document-structure-lab",
   "version": "1.0.0",
   "description": "Document Structure Continued",
   "scripts": {
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab#readme",
+  "homepage": "https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab!readme",
   "devDependencies": {
     "chai": "^4.3.4",
     "chai-dom": "^1.10.0",
@@ -25,3 +25,4 @@
     "mocha-multi": "^1.1.5"
   }
 }
+ 
